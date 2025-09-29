@@ -1,4 +1,3 @@
-todo-vue/
 ├── package.json
 ├── vite.config.js
 ├── index.html
